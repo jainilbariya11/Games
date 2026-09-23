@@ -1,2 +1,2 @@
 # Games
-About Diffrent types  Of  Games.
+Diffrent types  Of  Games.
